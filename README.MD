@@ -1,0 +1,1 @@
+# Customer Shopping Trends Analysis from Kaggle
